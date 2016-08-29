@@ -85,7 +85,20 @@ public enum SpeedmentIcon {
     WALKING_MAN("/pics/dialog/walking_man.gif"),
     WALKING_MAN_SMALL("/pics/dialog/walking_man_small.png"),
     // Logotype
-    SPIRE("/images/logo.png");
+    SPIRE("/images/logo.png"),
+    //Components controller
+ SITEMAP_COLOR("pics/vectors_rendered/sitemapColor.png"),
+ BOX("pics/vectors_rendered/box.png"),
+ BRICKS("pics/vectors_rendered/bricks.png"),
+ BOOK_OPEN("pics/vectors_rendered/BookOpen.png"),
+ BOOK_NEXT("pics/vectors_rendered/bookNext.png"),
+ DATABASE_CONNECT("pics/vectors_rendered/databaseConnect.png"),
+ CONNECT("pics/vectors_rendered/connect.png"),
+ PAGE_WHITE_CUP("pics/vectors_rendered/pageWhiteCup.png"),
+ CUP_LINK("pics/vectors_rendered/cupLink"),
+ TEXT_SIGNATURE("pics/vectors_rendered/textSignature.png"),
+ BOOK_LINK("pics/vectors_rendered/bookLink.png")
+    ;
 
     private final String filename;
 
