@@ -156,7 +156,7 @@ public final class ComponentsController implements Initializable {
         public DbmsTypeItem(DbmsType dbmsType) {
             super(dbmsType.getName());
             setExpanded(true);
-            setGraphic(SilkIcon.CONNECT.view());
+            setGraphic(SpeedmentIcon.CONNECT.view());
         }
     };
     
